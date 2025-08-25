@@ -1,5 +1,5 @@
 <h1>Weather Forecast App.</h1> 
-<h4>A web application that provides weather forecasts for selected locations using the weather.gov API.</h4>
+<h3>A web application that provides weather forecasts for selected locations using the weather.gov API.</h3>
 <h2>
    <a href="https://weather-data-api.onrender.com">Live Project</a> 
 </h2>
